@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JessicaDaFrog
+- 👋 Hi, I’m Jessica
 - 🌱 I’m currently learning a bunch of stuff through roadmap.sh
 - 🐉 I want to be a Jack of all trades when it comes to software development.
 - 🤝 Find me on LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/jessica-ugboaja-2a9064266/)
